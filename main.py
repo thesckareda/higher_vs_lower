@@ -22,6 +22,9 @@ acc_b = random.choice(data)
 
 score = 0
 
+
+
+
 game_over = True
 
 while game_over:
